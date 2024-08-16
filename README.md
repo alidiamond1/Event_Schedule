@@ -32,7 +32,7 @@ Welcome to the most dazzling Event Schedule Website you've ever seen! 🌟 Built
 
 3. **Build the project** (watch the magic happen)
 4. **Run and have fun!** 🎉
-5. 5. **Check it out** at `http://localhost:8080` and be amazed!
+5. **Check it out** at `http://localhost:8080` and be amazed!
 
 ## 🤝 Contribute and Become a Legend
 
