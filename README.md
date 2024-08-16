@@ -39,9 +39,9 @@ Welcome to the most dazzling Event Schedule Website you've ever seen! 🌟 Built
 We welcome contributors with open arms! Here's how you can become part of the legend:
 
 1. Fork it ( hhttps://github.com/alidiamond1/Event_Schedule/fork )
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
+2. Create your feature branch (`git checkout -b Event_Schedule/Event`)
+3. Commit your changes (`git commit -am 'Add some Event'`)
+4. Push to the branch (`git push origin Event_Schedule/Event`)
 5. Create a new Pull Request and wait for the applause 👏
 
 ## 🐛 Found a Bug? 
